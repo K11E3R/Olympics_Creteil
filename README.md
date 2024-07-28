@@ -1,5 +1,9 @@
 # Event Guide - Créteil Beach Handball
 
+<p align="center">
+  <img src="images/qr_creteil_olympics.png" alt="Paris 2024 QR code to easy access" width="200"/>
+</p>
+
 ## Overview
 
 This project is a web-based event guide for the Créteil Beach Handball event, part of the Paris 2024 Olympics celebration. It provides details on activities scheduled for the day, with an interactive layout that uses collapsible sections to display event information.
@@ -30,3 +34,6 @@ For questions or feedback, please contact us at [info@paris2024club.org](mailto:
 ---
 
 <i>Enjoy the Créteil Beach Handball event and celebrate the spirit of the Paris 2024 Olympics!</i>
+
+
+
