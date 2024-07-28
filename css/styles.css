@@ -16,7 +16,6 @@ body {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     position: relative;
     z-index: 1;
-    /* Ensure content is above the background */
 }
 
 header {
@@ -190,7 +189,6 @@ footer {
 
 .accordion:focus {
     outline: 2px solid #003d91;
-    /* or any color that fits your design */
 }
 
 .panel {
@@ -200,11 +198,7 @@ footer {
 
 .panel.show {
     max-height: 500px;
-    /* Adjust as needed */
 }
-
-
-/* Moving SVG Background */
 
 body::before {
     content: '';
@@ -216,7 +210,6 @@ body::before {
     background: url('moving-background.svg') no-repeat center center fixed;
     background-size: cover;
     z-index: -1;
-    /* Place it behind content */
     animation: moveBackground 30s linear infinite;
 }
 
