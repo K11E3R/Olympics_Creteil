@@ -25,8 +25,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please contact us at [info@paris2024club.org](mailto:info@paris2024club.org).
+For questions or feedback, please contact us at [info@paris2024club.org](mailto:prs.online.00@gmail.com)
 
 ---
 
-Enjoy the Créteil Beach Handball event and celebrate the spirit of the Paris 2024 Olympics!
+<i>Enjoy the Créteil Beach Handball event and celebrate the spirit of the Paris 2024 Olympics!</i>
