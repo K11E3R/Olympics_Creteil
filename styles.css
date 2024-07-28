@@ -1,0 +1,127 @@
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 40px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #444;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: #555;
+  font-size: 1.5em;
+  margin: 20px 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+  border: 1px solid #ddd;
+}
+
+td {
+  border: 1px solid #ddd;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+  background-color: #ddd;
+}
+
+.full-day-18 {
+  background-color: #d9edf7;
+}
+
+.full-day-22 {
+  background-color: #dff0d8;
+}
+
+.partial-day {
+  background-color: #fcf8e3;
+}
+
+.full-day-18 td {
+  color: #31708f;
+}
+
+.full-day-22 td {
+  color: #3c763d;
+}
+
+.partial-day td {
+  color: #8a6d3b;
+}
+
+
+#map-container {
+  position: relative;
+  width: 100%; /* Adjust as necessary */
+  max-width: 1200px; /* Adjust as necessary */
+}
+
+#map-container img {
+  width: 100%;
+  height: auto;
+}
+
+.event {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red; /* Event indicator color */
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.event-info {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.event:hover .event-info {
+  visibility: visible;
+}
