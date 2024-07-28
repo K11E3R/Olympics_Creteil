@@ -31,6 +31,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please contact us at [info@paris2024club.org](mailto:prs.online.00@gmail.com)
 
+<p align="center">
+  <img src="images/plan_journée.jpeg" alt="Paris 2024 QR code to easy access" width="400"/>
+</p>
+
 ---
 
 <i>Enjoy the Créteil Beach Handball event and celebrate the spirit of the Paris 2024 Olympics!</i>
