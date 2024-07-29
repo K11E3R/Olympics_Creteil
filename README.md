@@ -37,7 +37,9 @@ For questions or feedback, please contact us at [info@paris2024club.org](mailto:
 
 ---
 
+<p align="center">
 <i>Enjoy the Créteil Beach Handball event and celebrate the spirit of the Paris 2024 Olympics!</i>
+</p>
 
 
 
