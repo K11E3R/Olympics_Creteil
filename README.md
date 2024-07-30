@@ -1,5 +1,6 @@
-# Event Guide - Créteil Beach Handball
-
+<h1 align="center">
+Event Guide - Créteil Beach Handball
+</h1>
 <p align="center">
   <img src="images/qr_creteil_olympics.png" alt="Paris 2024 QR code to easy access" width="200"/>
 </p>
