@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const activities = [
-        { "time": "10h", "activity": "Ouverture Public", "location": "", "type": "partial-day" },
+        //{ "time": "10h", "activity": "Ouverture Public", "location": "", "type": "partial-day" },
         { "time": "10h-18h", "activity": "Animation mur digitale, Photobooth, Kit coloriage", "location": "Tente Métropole du Grand Paris", "type": "full-day-18" },
         { "time": "10h-23h", "activity": "Mur d'Athlètes Métropolitains", "location": "Déambulation", "type": "full-day-22" },
         { "time": "10h-18h", "activity": "Stand maquillage, Jeu avec dotation billetterie JO", "location": "Grande Tente", "type": "full-day-18" },
@@ -23,8 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { "time": "13h-14h", "activity": "Hand à 4 ou Handfauteuil", "location": "Terrain Hand 4", "type": "partial-day" },
         { "time": "19h-21h", "activity": "Gaming & eSport", "location": "Tente Ville de Créteil", "type": "partial-day" },
         { "time": "20h-22h", "activity": "Hand à 4 ou Handfauteuil", "location": "Terrain Hand 4", "type": "partial-day" },
-        { "time": "21h-23h", "activity": "JO 'Live' - Match EDF Féminin France / Pays Bas", "location": "Écran Géant", "type": "partial-day" },
-        { "time": "23h15", "activity": "Fermeture Public", "location": "", "type": "partial-day" }
+        { "time": "21h-23h", "activity": "JO 'Live' - Match EDF Féminin France / Pays Bas", "location": "Écran Géant", "type": "partial-day" }
+        //{ "time": "23h15", "activity": "Fermeture Public", "location": "", "type": "partial-day" }
     ];
 
     const tables = {
